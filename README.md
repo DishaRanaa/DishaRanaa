@@ -40,6 +40,8 @@ If you have an idea or just want to say hi, feel free to reach out!
 ![ZeroTier](https://img.shields.io/badge/ZeroTier-235689?style=flat-square&logo=zerotier&logoColor=white)
 ![VMware Cloud](https://img.shields.io/badge/VMware_Cloud-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
 
 Thanks for visiting my GitHub profile! 😊
