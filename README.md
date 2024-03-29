@@ -44,7 +44,7 @@ If you have an idea or just want to say hi, feel free to reach out!
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DishaRanaa&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![Profile View](https://visitcount.itsvg.in/api?id=DishaRanaa&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/4b493d1b-d57f-4712-971c-aa1b4b7327b0.svg)](https://wakatime.com/@4b493d1b-d57f-4712-971c-aa1b4b7327b0)
 
 Thanks for visiting my GitHub profile! 😊
